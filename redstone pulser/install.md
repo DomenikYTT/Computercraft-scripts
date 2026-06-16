@@ -7,7 +7,7 @@ Redstone Repulser is a script for ComputerCraft that converts Redstone signals t
 
 1. you need an Advanced Computer and the CC: Tweaked Mod and 2 redstone dust (or any other redstone block)
 
-2. you place the Advanced Computer and open it, and type **pastebin get gbi1yWk** into the console.
+2. you place the Advanced Computer and open it, and type **pastebin get gbci1yWk install** into the console, and now type **install** into the console.
 
 3. third step: you can edit the config with **edit config.lua**, there you can set the input and output side, the sides are as an comment at the top (--.... are the comments.)
 
