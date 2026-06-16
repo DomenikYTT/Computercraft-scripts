@@ -1,4 +1,3 @@
-os.loadAPI("lib/f.lua")
 os.loadAPI("config.lua")
 
 
